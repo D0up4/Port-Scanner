@@ -1,8 +1,8 @@
 # 🔍 TCP Port Scanner (Python)
 
-**Author:** [D0up4]  
+**Author:** D0up4 
 **Project Type:** Red Team Recon / Educational  
-**Last Updated:** [06/2025]
+**Last Updated:** 06/2025
 
 ---
 
@@ -25,7 +25,7 @@ It performs simple TCP connect scans (like Nmap’s `-sT`), using raw sockets wi
 
 ---
 
-## Example How To Use
+## 🚀 How To Use
 
 - python port_scanner.py 127.0.0.1 --start 1 --end 65535
 
