@@ -40,3 +40,11 @@ It performs simple TCP connect scans (like Nmap’s `-sT`), using raw sockets wi
 🔴 Port 25 is CLOSED
 
 ✅ Scan complete in 0:00:01.752000
+
+
+### 🧪 Setup
+
+```bash
+git clone https://github.com/D0up4/Port-Scanner.git
+cd Port-Scanner
+python port_scanner.py (TARGET IP) --start 1 --end 65535 (ports otpional)
