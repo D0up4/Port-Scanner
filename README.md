@@ -1,6 +1,6 @@
 # 🔍 TCP Port Scanner (Python)
 
-**Author:** D0up4 
+**Author:**  D0up4  
 **Project Type:** Red Team Recon / Educational  
 **Last Updated:** 06/2025
 
