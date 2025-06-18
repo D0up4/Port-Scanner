@@ -17,7 +17,6 @@ It performs simple TCP connect scans (like Nmap’s `-sT`), using raw sockets wi
 ## ⚙️ Features
 
 - ✅ Scans custom TCP port ranges (1–65535)
-- ✅ Clean CLI interface with `argparse`
 - ✅ Shows open and closed ports (optional)
 - ✅ Minimal dependencies (pure Python)
 - ✅ Timestamped output and scan duration
